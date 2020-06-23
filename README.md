@@ -46,7 +46,7 @@ Provided that the goal of a deobfuscator is not to "win the competion for the be
 
 # Compiling
 ## Requirements
-Visual Studio 2015
+Visual Studio 2019
 ## Steps
 1. Clone the repository and launch "build.bat" in order to build ConfuserEx 
 2. Open Clarifier.sln and build the solution
